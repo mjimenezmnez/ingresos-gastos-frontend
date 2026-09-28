@@ -1,4 +1,4 @@
-console.log('javascrip')
+console.log("javascript")
 
 function mostrarFormulario(){
     document.getElementById("formulario").style.display="block";
@@ -6,4 +6,4 @@ function mostrarFormulario(){
 
 //let btnNuevo = document.getElementById("btnNuevo");
 
-//btnNuevo.addEventListener("click", mostrarFormulario());
+//btnNuevo.addEventListener("click",mostrarFormulario());
